@@ -1,4 +1,4 @@
-# DataStructure---BattelShip-Game
+# DataStructure---BattleShip-Game
 **(Data Structure -- QuadTree ) represent a variation battleship game with quadtree datastructure.**
 
 
